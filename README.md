@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 >[DOM](https://medium.com/datastructures/dom-71bff4a8034a)\
 >[MDDM](https://medium.com/towardsbigdata/mddm-430c4653725e)
 
+[![Adwiteeya's github stats](https://github-readme-stats.vercel.app/api?username=adwiteeya3&hide=prs,issues,contribs&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 [Github]: https://github.com/adwiteeya3?tab=repositories
 [Medium]: https://medium.com/@adwiteeya
 [Twitter]: https://twitter.com/Adwiteeya6
