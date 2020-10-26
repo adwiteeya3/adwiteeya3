@@ -1,5 +1,5 @@
 ### Hi there 👋
-![alt text](bg.gif)
+![alt text](background.gif)
 
 Here are some ideas to get you started:
 
