@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-<!--
-**adwiteeya3/adwiteeya3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![alt text](bg.gif)
 
 Here are some ideas to get you started:
 
