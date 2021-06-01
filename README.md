@@ -10,13 +10,13 @@ Here are some ideas to get you started:
 <br>
 
 ### I work on
-> Languages: Python, C \
-> Database: PL/SQL, Oracle, MongoDB, T-SQL \
-> Frameworks: Flask, Django \
-> Database Tools: MS SQL Server, SQL Server Management Studio, SQL Server Data Tools, Business Intelligence Development Studio (BIDS), Visual Studio, OLAP, MOLAP, MDX, Data Mart \
-> DW Tools/Technologies: SSIS, SSRS, SSAS \
-> Reporting Tools: MS Reporting Server (SSRS), Report Builder \
-> Others: UNIX, TensorFlow, OpenCV, AWS, Machine Learning
+> **Languages:** Python, C \
+> **Database:** PL/SQL, Oracle, MongoDB, T-SQL \
+> **Frameworks:** Flask, Django \
+> **Database Tools:** MS SQL Server, SQL Server Management Studio, SQL Server Data Tools, Business Intelligence Development Studio (BIDS), Visual Studio, OLAP, MOLAP, MDX, Data Mart \
+> **DW Tools/Technologies:** SSIS, SSRS, SSAS \
+> **Reporting Tools:** MS Reporting Server (SSRS), Report Builder \
+> **Others:** UNIX, TensorFlow, OpenCV, AWS, Machine Learning
 
 ### On the Job
 > **ETL Developer** @Infosys Ltd., Pune\
