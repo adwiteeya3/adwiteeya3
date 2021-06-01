@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 
 > **Software Developer Intern** @HCL Technologies, Noida
 >>**Python Developer** 
-   * Coding and Auditing: Developed and wrote 35+ programs, tested their functionality and documented the process for future reference. Created workflows diagrams and charts to demonstrate the functionality of programs before coding them. Conducted manual testing to identify bugs for the testing team on the floor.
+  >> * Coding and Auditing: Developed and wrote 35+ programs, tested their functionality and documented the process for future reference. Created workflows diagrams and charts to demonstrate the functionality of programs before coding them. Conducted manual testing to identify bugs for the testing team on the floor.
 >>**Back-end Intern**
-   * Data Analysis and Coding: Compiled and analysed data, processes, and codes to troubleshoot problems and identify areas for improvement. Collaborated with front-end Developers to design functional and cohesive codes to enhance the user experience by 70%. Generated ideas for 10+ new programs and products by monitoring industry developments and latest trends
+  >> * Data Analysis and Coding: Compiled and analysed data, processes, and codes to troubleshoot problems and identify areas for improvement. Collaborated with front-end Developers to design functional and cohesive codes to enhance the user experience by 70%. Generated ideas for 10+ new programs and products by monitoring industry developments and latest trends
   
 ### Check my writings
 >[5 Basic Sorting Algorithms you must know](https://medium.com/datastructures/5-basic-sorting-algorithms-you-must-know-9ef5b1f3949c)\
