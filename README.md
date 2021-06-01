@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 > **Others:** UNIX, TensorFlow, OpenCV, AWS, Machine Learning
 
 ### On the Job
-> **System Engineer** @Infosys Ltd., Pune\
->>ETL Developer
-  -ETL Designing and Client Servicing: Orchestrated the designing, testing, support and debugging of 20+ new and existing ETL applications and reporting processes
+> **System Engineer** @Infosys Ltd., Pune
+>>ETL Developer \
+  *ETL Designing and Client Servicing: Orchestrated the designing, testing, support and debugging of 20+ new and existing ETL applications and reporting processes
   -Data Extraction and Design Testing: Extracted the necessary data from heterogenous sources by creating complex stored procedures and subqueries in TSQL. Designed and implemented relational databases, data marts and developed reports to allow users to easily access data
   *Data Integration: Formed SSIS and Informatica based solutions for data integration in both OLTP and Data Warehouse environment. Involved in usage of various SSIS components like Slowly Changing Dimension, Conditional Split, Merge, Merge Join, Multicast, Union All, Sort, Derived column, SQL execution task, Variables, and Error Handling before loading data into the Data warehouse
   *Data Analysis and Data Warehousing System Design: Developed OLAP Cubes by using SSAS and defined data sources, data source views, Dimensions, Measures, Hierarchies, Attributes, Calculations using MDX, Perspective and Roles
