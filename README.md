@@ -1,5 +1,5 @@
 # Software Developer
-Hey there, I'm Adwiteeya - a **Data and Analytics Engineer** at **Infosys**, scratching each and every bit of random data and making something beautiful. My learning principle is to never stop! Want to conclude an entire discussion -- well, that's what Data Analysts do.
+Hey there, I'm Adwiteeya - a **Data and Analytics Engineer** at **Infosys**, scratching each and every bit of random data and presenting something meaningful on plate. My learning principle is to never stop! Want to conclude an entire discussion -- well, that's what Data Analysts do.
 Here are some ideas to get you started:
 
 ### Connect with me on
@@ -10,15 +10,17 @@ Here are some ideas to get you started:
 <br>
 
 ### I work on
-> Languages: Python, JavaScript, HTML, CSS, C, C++ \
+> Languages: Python, C \
+> Database: PL/SQL, Oracle, MongoDB, T-SQL \
 > Frameworks: Flask, Django \
-> Databases: SQL, T-SQL, MongoDB \
-> ETL Tools: SSIS, SSRS, Informatica \
-> Others: React, TensorFlow, OpenCV, AWS, Firebase, UNIX, REST API, Machine Learning
+> Database Tools: MS SQL Server, SQL Server Management Studio, SQL Server Data Tools, Business Intelligence Development Studio (BIDS), Visual Studio, OLAP, MOLAP, MDX, Data Mart \
+> DW Tools/Technologies: SSIS, SSRS, SSAS \
+> Reporting Tools: MS Reporting Server (SSRS), Report Builder \
+> Others: UNIX, TensorFlow, OpenCV, AWS, Machine Learning
 
 ### On the Job
-> **Data and Analytics Engineer** @Infosys Ltd., Pune\
-> **Software Developer and Security Intern** @HCL Technologies, Noida\
+> **ETL Developer** @Infosys Ltd., Pune\
+> **Software Developer Intern** @HCL Technologies, Noida\
 
 ### Check my writings
 >[5 Basic Sorting Algorithms you must know](https://medium.com/datastructures/5-basic-sorting-algorithms-you-must-know-9ef5b1f3949c)\
